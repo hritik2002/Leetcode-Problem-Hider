@@ -1,5 +1,5 @@
 # Leetcode Problem Hider
-This simple JavaScript code hides the solved problems on the Leetcode tags <a href="https://leetcode.com/tag/array/"> Leetcode/tag/{tag_name}</a> page. 
+This simple JavaScript code hides the `solved` problems on the `Leetcode tags` <a href="https://leetcode.com/tag/array/"> Leetcode/tag/{tag_name}</a> page. 
 
 PS: replace `tag_name` with `array`, `string`, `bit-manipulation` or any other DSA tag.
 
