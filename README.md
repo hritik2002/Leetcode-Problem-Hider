@@ -22,6 +22,7 @@ The code uses DOM manipulation to hide the solved problems on the Leetcode tag p
 
 #### After pasting the code in the `browser's` `console`.
 
+![LeetcodeWithCode](https://user-images.githubusercontent.com/72138429/217316409-a88abe39-f9d6-4e4e-8c6a-52d25ff497d7.jpeg)
 
 
 
