@@ -21,7 +21,6 @@ The code uses DOM manipulation to hide the solved problems on the Leetcode tag p
 
 
 #### After pasting the code in the `browser's` `console`.
-<img width="1322" alt="Screenshot 2023-02-07 at 9 03 51 PM" src="https://user-images.githubusercontent.com/72138429/217289895-1da75af5-1bef-440b-ad6c-2b2b1938b003.png">
 
 
 
